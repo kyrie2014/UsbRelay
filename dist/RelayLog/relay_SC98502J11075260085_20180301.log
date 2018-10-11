@@ -1,0 +1,21 @@
+2018-03-01 13:48:36,167 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 4
+2018-03-01 13:48:37,184 - Relay - ERROR - [Errno 10061] 
+2018-03-01 13:48:37,434 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-03-01 13:48:37,434 - Relay - INFO - [DBUG_INFO] - |           Bind Relay Port            |
+2018-03-01 13:48:37,434 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-03-01 13:48:37,448 - Relay - INFO - [DBUG_INFO] - Bond Relay Port with device [SC98502J11075260085]
+2018-03-01 13:48:53,119 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 4
+2018-03-01 13:48:53,618 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-03-01 13:48:53,618 - Relay - INFO - [DBUG_INFO] - |           Bind Relay Port            |
+2018-03-01 13:48:53,618 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-03-01 13:48:53,618 - Relay - INFO - [DBUG_INFO] - Bond Relay Port with device [SC98502J11075260085]
+2018-03-01 13:48:53,665 - Relay - INFO - [DBUG_INFO] - -----------------------------------
+2018-03-01 13:48:53,665 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 0
+2018-03-01 13:48:56,023 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 1
+2018-03-01 13:48:56,134 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502J11075260085]
+2018-03-01 13:48:57,352 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502J11075260085]
+2018-03-01 13:48:58,680 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502J11075260085]
+2018-03-01 13:48:58,993 - Relay - INFO - [ADB_STATE] - Found DUT [SC98502J11075260085]
+2018-03-01 13:48:58,993 - Relay - INFO - [DBUG_INFO] - Found device on relay port[3]
+2018-03-01 13:48:58,993 - Relay - INFO - [DBUG_INFO] - Updated bonded ports
+2018-03-01 13:48:58,993 - Relay - INFO - [DBUG_INFO] - Total test is pass

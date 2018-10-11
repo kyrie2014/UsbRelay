@@ -1,0 +1,25 @@
+2018-04-27 12:37:41,441 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 4
+2018-04-27 12:37:41,842 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-04-27 12:37:41,842 - Relay - INFO - [DBUG_INFO] - |           Bind Relay Port            |
+2018-04-27 12:37:41,851 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-04-27 12:37:41,851 - Relay - INFO - [DBUG_INFO] - Bond Relay Port with device [SC98502K10072160619]
+2018-04-27 12:37:42,002 - Relay - INFO - [DBUG_INFO] - -----------------------------------
+2018-04-27 12:37:42,002 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 0
+2018-04-27 12:37:44,351 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 1
+2018-04-27 12:37:44,461 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502K10072160619]
+2018-04-27 12:37:45,742 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502K10072160619]
+2018-04-27 12:37:47,043 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502K10072160619]
+2018-04-27 12:37:47,243 - Relay - INFO - [ADB_STATE] - Found DUT [SC98502K10072160619]
+2018-04-27 12:37:47,243 - Relay - INFO - [DBUG_INFO] - Found device on relay port[2]
+2018-04-27 12:37:47,253 - Relay - INFO - [DBUG_INFO] - Updated bonded ports
+2018-04-27 12:37:47,253 - Relay - INFO - [DBUG_INFO] - Total test is pass
+2018-04-27 12:38:01,765 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 4
+2018-04-27 12:38:01,875 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-04-27 12:38:01,875 - Relay - INFO - [DBUG_INFO] - |           Recovery Device            |
+2018-04-27 12:38:01,875 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-04-27 12:38:02,265 - Relay - INFO - [ADB_STATE] - Device recovered
+2018-04-27 12:39:36,171 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 4
+2018-04-27 12:39:36,321 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-04-27 12:39:36,331 - Relay - INFO - [DBUG_INFO] - |           Recovery Device            |
+2018-04-27 12:39:36,331 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-04-27 12:39:36,811 - Relay - INFO - [ADB_STATE] - Device recovered

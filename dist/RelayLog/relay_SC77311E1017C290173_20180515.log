@@ -1,0 +1,16 @@
+2018-05-15 17:10:58,226 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 4
+2018-05-15 17:10:58,686 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-05-15 17:10:58,687 - Relay - INFO - [DBUG_INFO] - |           Bind Relay Port            |
+2018-05-15 17:10:58,687 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-05-15 17:10:58,688 - Relay - INFO - [DBUG_INFO] - Bond Relay Port with device [SC77311E1017C290173]
+2018-05-15 17:10:58,772 - Relay - INFO - [DBUG_INFO] - -----------------------------------
+2018-05-15 17:10:58,773 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 0
+2018-05-15 17:11:01,176 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 1
+2018-05-15 17:11:01,279 - Relay - INFO - [ADB_STATE] - Not found DUT [SC77311E1017C290173]
+2018-05-15 17:11:02,598 - Relay - INFO - [ADB_STATE] - Not found DUT [SC77311E1017C290173]
+2018-05-15 17:11:03,885 - Relay - INFO - [ADB_STATE] - Not found DUT [SC77311E1017C290173]
+2018-05-15 17:11:05,183 - Relay - INFO - [ADB_STATE] - Not found DUT [SC77311E1017C290173]
+2018-05-15 17:11:05,484 - Relay - INFO - [ADB_STATE] - Found DUT [SC77311E1017C290173]
+2018-05-15 17:11:05,484 - Relay - INFO - [DBUG_INFO] - Found device on relay port[2]
+2018-05-15 17:11:05,487 - Relay - INFO - [DBUG_INFO] - Updated bonded ports
+2018-05-15 17:11:05,487 - Relay - INFO - [DBUG_INFO] - Total test is pass

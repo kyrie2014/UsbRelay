@@ -1,0 +1,68 @@
+2018-02-28 11:09:00,736 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 4
+2018-02-28 11:09:01,190 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-02-28 11:09:01,190 - Relay - INFO - [DBUG_INFO] - |           Bind Relay Port            |
+2018-02-28 11:09:01,190 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-02-28 11:09:01,190 - Relay - INFO - [DBUG_INFO] - Bond Relay Port with device [SC98502J11075260085]
+2018-02-28 11:09:01,220 - Relay - INFO - [DBUG_INFO] - Inquiry all free Relay Ports
+2018-02-28 11:09:01,220 - Relay - INFO - [DBUG_INFO] - Get free port [1, 2, 3, 4, 5]
+2018-02-28 11:09:01,220 - Relay - INFO - [DBUG_INFO] - -----------------------------------
+2018-02-28 11:09:01,220 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 0
+2018-02-28 11:09:03,578 - Relay - INFO - [DBUG_INFO] - Not found device on Relay Port[1]
+2018-02-28 11:09:03,578 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 1
+2018-02-28 11:09:04,188 - Relay - INFO - [DBUG_INFO] - -----------------------------------
+2018-02-28 11:09:04,188 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 0
+2018-02-28 11:09:06,510 - Relay - INFO - [DBUG_INFO] - Not found device on Relay Port[2]
+2018-02-28 11:09:06,510 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 1
+2018-02-28 11:09:07,131 - Relay - INFO - [DBUG_INFO] - -----------------------------------
+2018-02-28 11:09:07,131 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 0
+2018-02-28 11:09:09,552 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 1
+2018-02-28 11:09:09,661 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502J11075260085]
+2018-02-28 11:09:10,894 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502J11075260085]
+2018-02-28 11:09:12,286 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502J11075260085]
+2018-02-28 11:09:12,505 - Relay - INFO - [ADB_STATE] - Found DUT [SC98502J11075260085]
+2018-02-28 11:09:12,505 - Relay - INFO - [DBUG_INFO] - Found adb enabled on Relay Port[3]
+2018-02-28 11:09:12,520 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 5
+2018-02-28 11:09:12,630 - Relay - INFO - [DBUG_INFO] - Total test is pass
+2018-02-28 11:09:36,957 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 4
+2018-02-28 11:09:37,332 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-02-28 11:09:37,332 - Relay - INFO - [DBUG_INFO] - |           Bind Relay Port            |
+2018-02-28 11:09:37,332 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-02-28 11:09:37,332 - Relay - INFO - [DBUG_INFO] - Bond Relay Port with device [SC98502J11075260085]
+2018-02-28 11:09:37,365 - Relay - INFO - [DBUG_INFO] - -----------------------------------
+2018-02-28 11:09:37,365 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 0
+2018-02-28 11:09:39,740 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 1
+2018-02-28 11:09:39,848 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502J11075260085]
+2018-02-28 11:09:41,069 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502J11075260085]
+2018-02-28 11:09:41,272 - Relay - INFO - [ADB_STATE] - Found DUT [SC98502J11075260085]
+2018-02-28 11:09:41,272 - Relay - INFO - [DBUG_INFO] - Found device on relay port[3]
+2018-02-28 11:09:41,272 - Relay - INFO - [DBUG_INFO] - Updated bonded ports
+2018-02-28 11:09:41,272 - Relay - INFO - [DBUG_INFO] - Total test is pass
+2018-02-28 13:29:03,742 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 4
+2018-02-28 13:29:03,865 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-02-28 13:29:03,865 - Relay - INFO - [DBUG_INFO] - |           Recovery Device            |
+2018-02-28 13:29:03,865 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-02-28 13:29:03,913 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-02-28 13:29:03,913 - Relay - INFO - [DBUG_INFO] - |       Invalid Device Recovery        |
+2018-02-28 13:29:03,913 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-02-28 13:29:03,928 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502J11075260085]
+2018-02-28 13:29:05,226 - Relay - INFO - [BOX_STATE] - Current devices connection is invalid [SC98502J11075260085]
+2018-02-28 13:29:05,226 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 0
+2018-02-28 13:29:06,335 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 1
+2018-02-28 13:29:06,444 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502J11075260085]
+2018-02-28 13:29:07,740 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502J11075260085]
+2018-02-28 13:29:09,052 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502J11075260085]
+2018-02-28 13:29:10,364 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502J11075260085]
+2018-02-28 13:29:11,676 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502J11075260085]
+2018-02-28 13:29:12,973 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502J11075260085]
+2018-02-28 13:29:14,177 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502J11075260085]
+2018-02-28 13:29:15,493 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502J11075260085]
+2018-02-28 13:29:16,763 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502J11075260085]
+2018-02-28 13:29:18,088 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502J11075260085]
+2018-02-28 13:29:19,401 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 0
+2018-02-28 13:29:20,525 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 1
+2018-02-28 13:29:20,634 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502J11075260085]
+2018-02-28 13:29:21,894 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502J11075260085]
+2018-02-28 13:29:23,154 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98502J11075260085]
+2018-02-28 13:29:23,404 - Relay - INFO - [ADB_STATE] - Found DUT [SC98502J11075260085]
+2018-02-28 13:29:23,404 - Relay - INFO - [BOX_STATE] - Device is recovered [SC98502J11075260085]
+2018-02-28 13:29:23,733 - Relay - INFO - [ADB_STATE] - Device recovered

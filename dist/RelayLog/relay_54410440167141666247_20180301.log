@@ -1,0 +1,17 @@
+2018-03-01 15:32:02,375 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 4
+2018-03-01 15:32:02,812 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-03-01 15:32:02,812 - Relay - INFO - [DBUG_INFO] - |           Bind Relay Port            |
+2018-03-01 15:32:02,812 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-03-01 15:32:02,812 - Relay - INFO - [DBUG_INFO] - Bond Relay Port with device [54410440167141666247]
+2018-03-01 15:32:02,859 - Relay - INFO - [DBUG_INFO] - Inquiry all free Relay Ports
+2018-03-01 15:32:02,859 - Relay - INFO - [DBUG_INFO] - Get free port [1, 2, 4, 5]
+2018-03-01 15:32:02,859 - Relay - INFO - [DBUG_INFO] - -----------------------------------
+2018-03-01 15:32:02,859 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 0
+2018-03-01 15:32:05,207 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 1
+2018-03-01 15:32:05,316 - Relay - INFO - [ADB_STATE] - Not found DUT [54410440167141666247]
+2018-03-01 15:32:06,536 - Relay - INFO - [ADB_STATE] - Not found DUT [54410440167141666247]
+2018-03-01 15:32:07,740 - Relay - INFO - [ADB_STATE] - Not found DUT [54410440167141666247]
+2018-03-01 15:32:07,943 - Relay - INFO - [ADB_STATE] - Found DUT [54410440167141666247]
+2018-03-01 15:32:07,943 - Relay - INFO - [DBUG_INFO] - Found adb enabled on Relay Port[1]
+2018-03-01 15:32:07,943 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 5
+2018-03-01 15:32:08,053 - Relay - INFO - [DBUG_INFO] - Total test is pass

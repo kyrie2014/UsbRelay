@@ -1,0 +1,27 @@
+2018-05-21 15:31:16,848 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 4
+2018-05-21 15:31:16,989 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-05-21 15:31:16,989 - Relay - INFO - [DBUG_INFO] - |           Recovery Device            |
+2018-05-21 15:31:16,989 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-05-21 15:31:17,051 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-05-21 15:31:17,051 - Relay - INFO - [DBUG_INFO] - |       Invalid Device Recovery        |
+2018-05-21 15:31:17,051 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-05-21 15:31:17,066 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98321E1007B081251]]
+2018-05-21 15:31:18,381 - Relay - INFO - [BOX_STATE] - Current devices connection is invalid [SC98321E1007B081251]]
+2018-05-21 15:31:28,474 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 4
+2018-05-21 15:31:28,599 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-05-21 15:31:28,599 - Relay - INFO - [DBUG_INFO] - |           Recovery Device            |
+2018-05-21 15:31:28,599 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-05-21 15:31:28,709 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-05-21 15:31:28,709 - Relay - INFO - [DBUG_INFO] - |       Invalid Device Recovery        |
+2018-05-21 15:31:28,709 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-05-21 15:31:28,724 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98321E1007B081251]]
+2018-05-21 15:31:29,953 - Relay - INFO - [BOX_STATE] - Current devices connection is invalid [SC98321E1007B081251]]
+2018-05-21 15:31:49,877 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 4
+2018-05-21 15:31:50,111 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-05-21 15:31:50,111 - Relay - INFO - [DBUG_INFO] - |           Recovery Device            |
+2018-05-21 15:31:50,111 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-05-21 15:31:50,220 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-05-21 15:31:50,236 - Relay - INFO - [DBUG_INFO] - |       Invalid Device Recovery        |
+2018-05-21 15:31:50,236 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-05-21 15:31:50,283 - Relay - INFO - [ADB_STATE] - Not found DUT [SC98321E1007B081251]]
+2018-05-21 15:31:51,609 - Relay - INFO - [BOX_STATE] - Current devices connection is invalid [SC98321E1007B081251]]

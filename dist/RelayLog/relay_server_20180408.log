@@ -1,0 +1,83 @@
+2018-04-08 10:12:35,996 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-04-08 10:14:06,563 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-04-08 10:14:06,563 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-6, sn:"SC98321E10079170755"], 2]"
+2018-04-08 10:14:06,563 - Relay - INFO - [BOX_STAT] - Disconnect USB cable [1]
+2018-04-08 10:14:06,579 - Relay - INFO - [UART_TXD] - 7e 08 21 01 10 00 46 55
+2018-04-08 10:14:06,688 - Relay - INFO - [UART_RXD] - 7e ff 07 21 90 37 55
+2018-04-08 10:14:06,688 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-6, sn:"SC98321E10079170755"], 2]"...
+2018-04-08 10:14:06,688 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-04-08 10:19:39,753 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-04-08 10:19:39,753 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-6, sn:"SC98321E10079170755"], 4]"
+2018-04-08 10:19:39,753 - Relay - INFO - [BOX_STAT] - Read all relay port states
+2018-04-08 10:19:39,753 - Relay - INFO - [UART_TXD] - 7e 07 06 00 00 7f 55
+2018-04-08 10:19:39,864 - Relay - INFO - [UART_RXD] - 7e ff 07 06 00 00 00 00 00 80 55
+2018-04-08 10:19:39,864 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-6, sn:"SC98321E10079170755"], 4]"...
+2018-04-08 10:19:39,864 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-04-08 10:19:40,299 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-04-08 10:19:40,299 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-1, sn:"SC98321E10079170755"], 0]"
+2018-04-08 10:19:40,299 - Relay - INFO - [BOX_STAT] - Power off relay port[1]
+2018-04-08 10:19:40,299 - Relay - INFO - [UART_TXD] - 7e 07 01 40 00 38 55
+2018-04-08 10:19:40,410 - Relay - INFO - [UART_RXD] - 7e ff 07 01 00 87 55
+2018-04-08 10:19:40,410 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-1, sn:"SC98321E10079170755"], 0]"...
+2018-04-08 10:19:40,410 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-04-08 10:19:42,765 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-04-08 10:19:42,765 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-1, sn:"SC98321E10079170755"], 1]"
+2018-04-08 10:19:42,765 - Relay - INFO - [BOX_STAT] - Power  on relay port[1]
+2018-04-08 10:19:42,765 - Relay - INFO - [UART_TXD] - 7e 07 01 40 ff c7 55
+2018-04-08 10:19:42,890 - Relay - INFO - [UART_RXD] - 7e ff 07 01 00 87 55
+2018-04-08 10:19:42,890 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-1, sn:"SC98321E10079170755"], 1]"...
+2018-04-08 10:19:42,890 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-04-08 10:19:43,404 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-04-08 10:19:43,404 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-2, sn:"SC98321E10079170755"], 0]"
+2018-04-08 10:19:43,404 - Relay - INFO - [BOX_STAT] - Power off relay port[2]
+2018-04-08 10:19:43,404 - Relay - INFO - [UART_TXD] - 7e 07 02 40 00 3b 55
+2018-04-08 10:19:43,513 - Relay - INFO - [UART_RXD] - 7e ff 07 02 00 84 55
+2018-04-08 10:19:43,513 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-2, sn:"SC98321E10079170755"], 0]"...
+2018-04-08 10:19:43,513 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-04-08 10:19:45,806 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-04-08 10:19:45,806 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-2, sn:"SC98321E10079170755"], 1]"
+2018-04-08 10:19:45,806 - Relay - INFO - [BOX_STAT] - Power  on relay port[2]
+2018-04-08 10:19:45,806 - Relay - INFO - [UART_TXD] - 7e 07 02 40 ff c4 55
+2018-04-08 10:19:45,915 - Relay - INFO - [UART_RXD] - 7e ff 07 02 00 84 55
+2018-04-08 10:19:45,915 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-2, sn:"SC98321E10079170755"], 1]"...
+2018-04-08 10:19:45,915 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-04-08 10:19:47,444 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-04-08 10:19:47,444 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-2, sn:"SC98321E10079170755"], 5]"
+2018-04-08 10:19:47,444 - Relay - INFO - [BOX_STAT] - Set mapper relay port[2]-ID[1]
+2018-04-08 10:19:47,444 - Relay - INFO - [UART_TXD] - 7e 07 20 02 01 5a 55
+2018-04-08 10:19:47,553 - Relay - INFO - [UART_RXD] - 7e ff 07 20 00 a6 55
+2018-04-08 10:19:47,553 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-2, sn:"SC98321E10079170755"], 5]"...
+2018-04-08 10:19:47,553 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-04-08 10:25:57,036 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-04-08 10:25:57,036 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-6, sn:"SC98321E10079170755"], 2]"
+2018-04-08 10:25:57,036 - Relay - INFO - [BOX_STAT] - Disconnect USB cable [1]
+2018-04-08 10:25:57,036 - Relay - INFO - [UART_TXD] - 7e 08 21 01 10 00 46 55
+2018-04-08 10:25:57,145 - Relay - INFO - [UART_RXD] - 7e ff 07 21 02 a5 55
+2018-04-08 10:25:57,145 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-6, sn:"SC98321E10079170755"], 2]"...
+2018-04-08 10:25:57,145 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-04-08 10:30:59,186 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-04-08 10:30:59,186 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-6, sn:"SC98321E10079170755"], 3]"
+2018-04-08 10:30:59,186 - Relay - INFO - [BOX_STAT] - Connect USB cable [1]
+2018-04-08 10:30:59,186 - Relay - INFO - [UART_TXD] - 7e 08 21 01 10 ff b9 55
+2018-04-08 10:30:59,295 - Relay - INFO - [UART_RXD] - 7e ff 07 21 02 a5 55
+2018-04-08 10:30:59,295 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-6, sn:"SC98321E10079170755"], 3]"...
+2018-04-08 10:30:59,295 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-04-08 11:09:16,696 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-04-08 11:09:16,696 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-6, sn:"SC98321E10079170755"], 2]"
+2018-04-08 11:09:16,696 - Relay - INFO - [BOX_STAT] - Disconnect USB cable [1]
+2018-04-08 11:09:16,696 - Relay - INFO - [UART_TXD] - 7e 08 21 01 10 00 46 55
+2018-04-08 11:09:16,805 - Relay - INFO - [UART_RXD] - 7e ff 07 21 02 a5 55
+2018-04-08 11:09:16,805 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-6, sn:"SC98321E10079170755"], 2]"...
+2018-04-08 11:09:16,805 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-04-08 11:14:18,490 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-04-08 11:14:18,490 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-6, sn:"SC98321E10079170755"], 3]"
+2018-04-08 11:14:18,490 - Relay - INFO - [BOX_STAT] - Connect USB cable [1]
+2018-04-08 11:14:18,490 - Relay - INFO - [UART_TXD] - 7e 08 21 01 10 ff b9 55
+2018-04-08 11:14:18,599 - Relay - INFO - [UART_RXD] - 7e ff 07 21 02 a5 55
+2018-04-08 11:14:18,599 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-6, sn:"SC98321E10079170755"], 3]"...
+2018-04-08 11:14:18,599 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-04-10 14:18:45,697 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-04-10 14:18:45,717 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-6, sn:"SC98321E1107C010044"], 4]"
+2018-04-10 14:18:45,717 - Relay - INFO - [BOX_STAT] - Read all relay port states
+2018-04-10 14:18:45,717 - Relay - INFO - [UART_TXD] - 7e 07 06 00 00 7f 55
+2018-04-10 14:18:48,707 - Relay - INFO - [SER_STAT] - SerialComm.__serial.__del__

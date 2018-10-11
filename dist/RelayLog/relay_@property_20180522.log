@@ -1,0 +1,5 @@
+2018-05-22 09:22:37,260 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 4
+2018-05-22 09:22:37,747 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-05-22 09:22:37,749 - Relay - INFO - [DBUG_INFO] - |       Invalid Device Recovery        |
+2018-05-22 09:22:37,750 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-05-22 09:22:37,769 - Relay - INFO - [ADB_STATE] - Not found DUT [@property]

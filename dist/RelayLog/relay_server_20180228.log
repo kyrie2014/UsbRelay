@@ -1,0 +1,225 @@
+2018-02-28 11:07:14,490 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 11:09:00,750 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 11:09:00,750 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-6, sn:"SC98502J11075260085"], 4]"
+2018-02-28 11:09:00,750 - Relay - INFO - [BOX_STAT] - Read all relay port states
+2018-02-28 11:09:00,750 - Relay - INFO - [UART_TXD] - 7e 07 06 00 00 7f 55
+2018-02-28 11:09:00,861 - Relay - INFO - [UART_RXD] - 7e ff 07 06 00 00 00 00 00 80 55
+2018-02-28 11:09:00,861 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-6, sn:"SC98502J11075260085"], 4]"...
+2018-02-28 11:09:00,861 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 11:09:01,220 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 11:09:01,220 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-1, sn:"SC98502J11075260085"], 0]"
+2018-02-28 11:09:01,220 - Relay - INFO - [BOX_STAT] - Power off relay port[1]
+2018-02-28 11:09:01,220 - Relay - INFO - [UART_TXD] - 7e 07 01 40 00 38 55
+2018-02-28 11:09:01,331 - Relay - INFO - [UART_RXD] - 7e ff 07 01 00 87 55
+2018-02-28 11:09:01,331 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-1, sn:"SC98502J11075260085"], 0]"...
+2018-02-28 11:09:01,331 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 11:09:03,578 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 11:09:03,578 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-1, sn:"SC98502J11075260085"], 1]"
+2018-02-28 11:09:03,578 - Relay - INFO - [BOX_STAT] - Power  on relay port[1]
+2018-02-28 11:09:03,578 - Relay - INFO - [UART_TXD] - 7e 07 01 40 ff c7 55
+2018-02-28 11:09:03,687 - Relay - INFO - [UART_RXD] - 7e ff 07 01 00 87 55
+2018-02-28 11:09:03,687 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-1, sn:"SC98502J11075260085"], 1]"...
+2018-02-28 11:09:03,687 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 11:09:04,188 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 11:09:04,188 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-2, sn:"SC98502J11075260085"], 0]"
+2018-02-28 11:09:04,188 - Relay - INFO - [BOX_STAT] - Power off relay port[2]
+2018-02-28 11:09:04,188 - Relay - INFO - [UART_TXD] - 7e 07 02 40 00 3b 55
+2018-02-28 11:09:04,299 - Relay - INFO - [UART_RXD] - 7e ff 07 02 00 84 55
+2018-02-28 11:09:04,299 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-2, sn:"SC98502J11075260085"], 0]"...
+2018-02-28 11:09:04,299 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 11:09:06,510 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 11:09:06,510 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-2, sn:"SC98502J11075260085"], 1]"
+2018-02-28 11:09:06,510 - Relay - INFO - [BOX_STAT] - Power  on relay port[2]
+2018-02-28 11:09:06,510 - Relay - INFO - [UART_TXD] - 7e 07 02 40 ff c4 55
+2018-02-28 11:09:06,611 - Relay - INFO - [UART_RXD] - 7e ff 07 02 00 84 55
+2018-02-28 11:09:06,611 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-2, sn:"SC98502J11075260085"], 1]"...
+2018-02-28 11:09:06,611 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 11:09:07,131 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 11:09:07,131 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-3, sn:"SC98502J11075260085"], 0]"
+2018-02-28 11:09:07,131 - Relay - INFO - [BOX_STAT] - Power off relay port[3]
+2018-02-28 11:09:07,131 - Relay - INFO - [UART_TXD] - 7e 07 03 40 00 3a 55
+2018-02-28 11:09:07,240 - Relay - INFO - [UART_RXD] - 7e ff 07 03 00 85 55
+2018-02-28 11:09:07,240 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-3, sn:"SC98502J11075260085"], 0]"...
+2018-02-28 11:09:07,240 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 11:09:09,552 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 11:09:09,552 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-3, sn:"SC98502J11075260085"], 1]"
+2018-02-28 11:09:09,552 - Relay - INFO - [BOX_STAT] - Power  on relay port[3]
+2018-02-28 11:09:09,552 - Relay - INFO - [UART_TXD] - 7e 07 03 40 ff c5 55
+2018-02-28 11:09:09,661 - Relay - INFO - [UART_RXD] - 7e ff 07 03 00 85 55
+2018-02-28 11:09:09,661 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-3, sn:"SC98502J11075260085"], 1]"...
+2018-02-28 11:09:09,661 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 11:09:12,520 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 11:09:12,520 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-3, sn:"SC98502J11075260085"], 5]"
+2018-02-28 11:09:12,520 - Relay - INFO - [BOX_STAT] - Set mapper relay port[3]-ID[10]
+2018-02-28 11:09:12,520 - Relay - INFO - [UART_TXD] - 7e 07 20 03 0a 50 55
+2018-02-28 11:09:12,630 - Relay - INFO - [UART_RXD] - 7e ff 07 20 00 a6 55
+2018-02-28 11:09:12,630 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-3, sn:"SC98502J11075260085"], 5]"...
+2018-02-28 11:09:12,630 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 11:09:36,973 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 11:09:36,973 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-6, sn:"SC98502J11075260085"], 4]"
+2018-02-28 11:09:36,973 - Relay - INFO - [BOX_STAT] - Read all relay port states
+2018-02-28 11:09:36,973 - Relay - INFO - [UART_TXD] - 7e 07 06 00 00 7f 55
+2018-02-28 11:09:37,084 - Relay - INFO - [UART_RXD] - 7e ff 07 06 00 00 0a 00 00 8a 55
+2018-02-28 11:09:37,084 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-6, sn:"SC98502J11075260085"], 4]"...
+2018-02-28 11:09:37,084 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 11:09:37,365 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 11:09:37,365 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-3, sn:"SC98502J11075260085"], 0]"
+2018-02-28 11:09:37,365 - Relay - INFO - [BOX_STAT] - Power off relay port[3]
+2018-02-28 11:09:37,365 - Relay - INFO - [UART_TXD] - 7e 07 03 40 00 3a 55
+2018-02-28 11:09:37,473 - Relay - INFO - [UART_RXD] - 7e ff 07 03 00 85 55
+2018-02-28 11:09:37,473 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-3, sn:"SC98502J11075260085"], 0]"...
+2018-02-28 11:09:37,473 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 11:09:39,740 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 11:09:39,740 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-3, sn:"SC98502J11075260085"], 1]"
+2018-02-28 11:09:39,740 - Relay - INFO - [BOX_STAT] - Power  on relay port[3]
+2018-02-28 11:09:39,740 - Relay - INFO - [UART_TXD] - 7e 07 03 40 ff c5 55
+2018-02-28 11:09:39,848 - Relay - INFO - [UART_RXD] - 7e ff 07 03 00 85 55
+2018-02-28 11:09:39,848 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-3, sn:"SC98502J11075260085"], 1]"...
+2018-02-28 11:09:39,848 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 13:14:43,575 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 13:14:43,575 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-6, sn:"SC98502J11075260085"], 4]"
+2018-02-28 13:14:43,575 - Relay - INFO - [BOX_STAT] - Read all relay port states
+2018-02-28 13:14:43,575 - Relay - INFO - [UART_TXD] - 7e 07 06 00 00 7f 55
+2018-02-28 13:14:43,684 - Relay - INFO - [UART_RXD] - 7e ff 07 06 00 00 0a 00 00 8a 55
+2018-02-28 13:14:43,684 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-6, sn:"SC98502J11075260085"], 4]"...
+2018-02-28 13:14:43,684 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 13:14:44,075 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 13:14:44,075 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-3, sn:"SC98502J11075260085"], 0]"
+2018-02-28 13:14:44,075 - Relay - INFO - [BOX_STAT] - Power off relay port[3]
+2018-02-28 13:14:44,075 - Relay - INFO - [UART_TXD] - 7e 07 03 40 00 3a 55
+2018-02-28 13:14:44,200 - Relay - INFO - [UART_RXD] - 7e ff 07 03 00 85 55
+2018-02-28 13:14:44,200 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-3, sn:"SC98502J11075260085"], 0]"...
+2018-02-28 13:14:44,200 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 13:14:46,480 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 13:14:46,480 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-3, sn:"SC98502J11075260085"], 1]"
+2018-02-28 13:14:46,480 - Relay - INFO - [BOX_STAT] - Power  on relay port[3]
+2018-02-28 13:14:46,480 - Relay - INFO - [UART_TXD] - 7e 07 03 40 ff c5 55
+2018-02-28 13:14:46,589 - Relay - INFO - [UART_RXD] - 7e ff 07 03 00 85 55
+2018-02-28 13:14:46,589 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-3, sn:"SC98502J11075260085"], 1]"...
+2018-02-28 13:14:46,589 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 13:15:03,121 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 13:15:03,121 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-6, sn:"SC98502J11075260085"], 4]"
+2018-02-28 13:15:03,121 - Relay - INFO - [BOX_STAT] - Read all relay port states
+2018-02-28 13:15:03,121 - Relay - INFO - [UART_TXD] - 7e 07 06 00 00 7f 55
+2018-02-28 13:15:03,230 - Relay - INFO - [UART_RXD] - 7e ff 07 06 00 00 0a 00 00 8a 55
+2018-02-28 13:15:03,230 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-6, sn:"SC98502J11075260085"], 4]"...
+2018-02-28 13:15:03,230 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 13:17:31,812 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 13:17:31,812 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-6, sn:"SC98502J11075260085"], 4]"
+2018-02-28 13:17:31,828 - Relay - INFO - [BOX_STAT] - Read all relay port states
+2018-02-28 13:17:31,828 - Relay - INFO - [UART_TXD] - 7e 07 06 00 00 7f 55
+2018-02-28 13:17:31,937 - Relay - INFO - [UART_RXD] - 7e ff 07 06 00 00 0a 00 00 8a 55
+2018-02-28 13:17:31,937 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-6, sn:"SC98502J11075260085"], 4]"...
+2018-02-28 13:17:31,937 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 13:17:43,444 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 13:17:43,444 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-6, sn:"SC98502J11075260085"], 4]"
+2018-02-28 13:17:43,460 - Relay - INFO - [BOX_STAT] - Read all relay port states
+2018-02-28 13:17:43,460 - Relay - INFO - [UART_TXD] - 7e 07 06 00 00 7f 55
+2018-02-28 13:17:43,569 - Relay - INFO - [UART_RXD] - 7e ff 07 06 00 00 0a 00 00 8a 55
+2018-02-28 13:17:43,569 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-6, sn:"SC98502J11075260085"], 4]"...
+2018-02-28 13:17:43,569 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 13:17:44,851 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 13:17:44,851 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-3, sn:"SC98502J11075260085"], 0]"
+2018-02-28 13:17:44,851 - Relay - INFO - [BOX_STAT] - Power off relay port[3]
+2018-02-28 13:17:44,851 - Relay - INFO - [UART_TXD] - 7e 07 03 40 00 3a 55
+2018-02-28 13:17:44,960 - Relay - INFO - [UART_RXD] - 7e ff 07 03 00 85 55
+2018-02-28 13:17:44,960 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-3, sn:"SC98502J11075260085"], 0]"...
+2018-02-28 13:17:44,960 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 13:17:45,973 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 13:17:45,973 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-3, sn:"SC98502J11075260085"], 1]"
+2018-02-28 13:17:45,973 - Relay - INFO - [BOX_STAT] - Power  on relay port[3]
+2018-02-28 13:17:45,973 - Relay - INFO - [UART_TXD] - 7e 07 03 40 ff c5 55
+2018-02-28 13:17:46,069 - Relay - INFO - [UART_RXD] - 7e ff 07 03 00 85 55
+2018-02-28 13:17:46,069 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-3, sn:"SC98502J11075260085"], 1]"...
+2018-02-28 13:17:46,069 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 13:17:59,153 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 13:17:59,153 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-3, sn:"SC98502J11075260085"], 0]"
+2018-02-28 13:17:59,153 - Relay - INFO - [BOX_STAT] - Power off relay port[3]
+2018-02-28 13:17:59,153 - Relay - INFO - [UART_TXD] - 7e 07 03 40 00 3a 55
+2018-02-28 13:17:59,262 - Relay - INFO - [UART_RXD] - 7e ff 07 03 00 85 55
+2018-02-28 13:17:59,262 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-3, sn:"SC98502J11075260085"], 0]"...
+2018-02-28 13:17:59,262 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 13:18:00,263 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 13:18:00,263 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-3, sn:"SC98502J11075260085"], 1]"
+2018-02-28 13:18:00,263 - Relay - INFO - [BOX_STAT] - Power  on relay port[3]
+2018-02-28 13:18:00,263 - Relay - INFO - [UART_TXD] - 7e 07 03 40 ff c5 55
+2018-02-28 13:18:00,371 - Relay - INFO - [UART_RXD] - 7e ff 07 03 00 85 55
+2018-02-28 13:18:00,371 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-3, sn:"SC98502J11075260085"], 1]"...
+2018-02-28 13:18:00,371 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 13:23:06,354 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 13:23:06,354 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-6, sn:"SC98502J11075260085"], 4]"
+2018-02-28 13:23:06,354 - Relay - INFO - [BOX_STAT] - Read all relay port states
+2018-02-28 13:23:06,354 - Relay - INFO - [UART_TXD] - 7e 07 06 00 00 7f 55
+2018-02-28 13:23:06,463 - Relay - INFO - [UART_RXD] - 7e ff 07 06 00 00 0a 00 00 8a 55
+2018-02-28 13:23:06,463 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-6, sn:"SC98502J11075260085"], 4]"...
+2018-02-28 13:23:06,463 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 13:23:07,775 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 13:23:07,775 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-3, sn:"SC98502J11075260085"], 0]"
+2018-02-28 13:23:07,775 - Relay - INFO - [BOX_STAT] - Power off relay port[3]
+2018-02-28 13:23:07,775 - Relay - INFO - [UART_TXD] - 7e 07 03 40 00 3a 55
+2018-02-28 13:23:07,884 - Relay - INFO - [UART_RXD] - 7e ff 07 03 00 85 55
+2018-02-28 13:23:07,884 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-3, sn:"SC98502J11075260085"], 0]"...
+2018-02-28 13:23:07,884 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 13:23:08,898 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 13:23:08,898 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-3, sn:"SC98502J11075260085"], 1]"
+2018-02-28 13:23:08,898 - Relay - INFO - [BOX_STAT] - Power  on relay port[3]
+2018-02-28 13:23:08,898 - Relay - INFO - [UART_TXD] - 7e 07 03 40 ff c5 55
+2018-02-28 13:23:09,006 - Relay - INFO - [UART_RXD] - 7e ff 07 03 00 85 55
+2018-02-28 13:23:09,006 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-3, sn:"SC98502J11075260085"], 1]"...
+2018-02-28 13:23:09,006 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 13:23:36,596 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 13:23:36,596 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-6, sn:"SC98502J11075260085"], 4]"
+2018-02-28 13:23:36,596 - Relay - INFO - [BOX_STAT] - Read all relay port states
+2018-02-28 13:23:36,596 - Relay - INFO - [UART_TXD] - 7e 07 06 00 00 7f 55
+2018-02-28 13:23:36,706 - Relay - INFO - [UART_RXD] - 7e ff 07 06 00 00 0a 00 00 8a 55
+2018-02-28 13:23:36,706 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-6, sn:"SC98502J11075260085"], 4]"...
+2018-02-28 13:23:36,706 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 13:23:37,986 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 13:23:37,986 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-3, sn:"SC98502J11075260085"], 0]"
+2018-02-28 13:23:37,986 - Relay - INFO - [BOX_STAT] - Power off relay port[3]
+2018-02-28 13:23:37,986 - Relay - INFO - [UART_TXD] - 7e 07 03 40 00 3a 55
+2018-02-28 13:23:38,079 - Relay - INFO - [UART_RXD] - 7e ff 07 03 00 85 55
+2018-02-28 13:23:38,079 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-3, sn:"SC98502J11075260085"], 0]"...
+2018-02-28 13:23:38,079 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 13:23:39,081 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 13:23:39,081 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-3, sn:"SC98502J11075260085"], 1]"
+2018-02-28 13:23:39,081 - Relay - INFO - [BOX_STAT] - Power  on relay port[3]
+2018-02-28 13:23:39,096 - Relay - INFO - [UART_TXD] - 7e 07 03 40 ff c5 55
+2018-02-28 13:23:39,206 - Relay - INFO - [UART_RXD] - 7e ff 07 03 00 85 55
+2018-02-28 13:23:39,206 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-3, sn:"SC98502J11075260085"], 1]"...
+2018-02-28 13:23:39,206 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 13:29:03,742 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 13:29:03,742 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-6, sn:"SC98502J11075260085"], 4]"
+2018-02-28 13:29:03,742 - Relay - INFO - [BOX_STAT] - Read all relay port states
+2018-02-28 13:29:03,742 - Relay - INFO - [UART_TXD] - 7e 07 06 00 00 7f 55
+2018-02-28 13:29:03,851 - Relay - INFO - [UART_RXD] - 7e ff 07 06 00 00 0a 00 00 8a 55
+2018-02-28 13:29:03,851 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-6, sn:"SC98502J11075260085"], 4]"...
+2018-02-28 13:29:03,851 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 13:29:05,226 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 13:29:05,226 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-3, sn:"SC98502J11075260085"], 0]"
+2018-02-28 13:29:05,226 - Relay - INFO - [BOX_STAT] - Power off relay port[3]
+2018-02-28 13:29:05,226 - Relay - INFO - [UART_TXD] - 7e 07 03 40 00 3a 55
+2018-02-28 13:29:05,335 - Relay - INFO - [UART_RXD] - 7e ff 07 03 00 85 55
+2018-02-28 13:29:05,335 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-3, sn:"SC98502J11075260085"], 0]"...
+2018-02-28 13:29:05,335 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 13:29:06,335 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 13:29:06,335 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-3, sn:"SC98502J11075260085"], 1]"
+2018-02-28 13:29:06,335 - Relay - INFO - [BOX_STAT] - Power  on relay port[3]
+2018-02-28 13:29:06,335 - Relay - INFO - [UART_TXD] - 7e 07 03 40 ff c5 55
+2018-02-28 13:29:06,444 - Relay - INFO - [UART_RXD] - 7e ff 07 03 00 85 55
+2018-02-28 13:29:06,444 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-3, sn:"SC98502J11075260085"], 1]"...
+2018-02-28 13:29:06,444 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 13:29:19,401 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 13:29:19,401 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-3, sn:"SC98502J11075260085"], 0]"
+2018-02-28 13:29:19,401 - Relay - INFO - [BOX_STAT] - Power off relay port[3]
+2018-02-28 13:29:19,401 - Relay - INFO - [UART_TXD] - 7e 07 03 40 00 3a 55
+2018-02-28 13:29:19,510 - Relay - INFO - [UART_RXD] - 7e ff 07 03 00 85 55
+2018-02-28 13:29:19,510 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-3, sn:"SC98502J11075260085"], 0]"...
+2018-02-28 13:29:19,510 - Relay - INFO - [ IN_TASK] - Waiting connection...
+2018-02-28 13:29:20,525 - Relay - INFO - [ IN_TASK] - ----------------------------------
+2018-02-28 13:29:20,525 - Relay - INFO - [ IN_TASK] - New task, turn to task "[P0, [Index-3, sn:"SC98502J11075260085"], 1]"
+2018-02-28 13:29:20,525 - Relay - INFO - [BOX_STAT] - Power  on relay port[3]
+2018-02-28 13:29:20,525 - Relay - INFO - [UART_TXD] - 7e 07 03 40 ff c5 55
+2018-02-28 13:29:20,634 - Relay - INFO - [UART_RXD] - 7e ff 07 03 00 85 55
+2018-02-28 13:29:20,634 - Relay - INFO - [OUT_TASK] - Finshed task "[P0, [Index-3, sn:"SC98502J11075260085"], 1]"...
+2018-02-28 13:29:20,634 - Relay - INFO - [ IN_TASK] - Waiting connection...

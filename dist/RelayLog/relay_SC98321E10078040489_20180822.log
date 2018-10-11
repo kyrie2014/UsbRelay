@@ -1,0 +1,6 @@
+2018-08-22 09:50:05,010 - Relay - INFO - [BOX_STATE] - RELAY_EVENT_TPYE --> 4
+2018-08-22 09:50:05,476 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-08-22 09:50:05,477 - Relay - INFO - [DBUG_INFO] - |           Bind Relay Port            |
+2018-08-22 09:50:05,479 - Relay - INFO - [DBUG_INFO] - ----------------------------------------
+2018-08-22 09:50:05,480 - Relay - INFO - [DBUG_INFO] - Bond Relay Port with device [SC98321E10078040489]
+2018-08-22 09:50:05,559 - Relay - INFO - [DBUG_INFO] - Total test is pass
