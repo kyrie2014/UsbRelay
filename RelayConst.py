@@ -20,9 +20,9 @@ Const.DB_TABLE_KEYS            = ['Date DATE',
 Const.DB_TABLE_NAME            = 'pm_recoveryadbdata'
 
 # DATABASE CONFIG
-Const.HOST                     = '10.0.3.38'
-Const.USER                     = 'sprd_ccn'
-Const.PASSWD                   = 'sprd_ccn'
+Const.HOST                     = 'xx.xx.xx.xx'
+Const.USER                     = 'xxx_ccn'
+Const.PASSWD                   = 'xxx_ccn'
 Const.DB_NAME                  = 'test'
 Const.PORT                     = 3306
 Const.GETPROP_PRODUCT          = 'getprop ro.build.product'
