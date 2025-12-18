@@ -15,7 +15,7 @@ class Const(object):
     
     def __setattr__(self, key, value):
         if key in self.__dict__:
-            raise self.ConstError, "Not changed the value of const.%s" % key
+            raise self.ConstError("Not changed the value of const.%s" % key)
         else:
             self.__dict__[key] = value
             

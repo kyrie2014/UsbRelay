@@ -165,7 +165,7 @@ class InitRelay(Relay):
         try:
             wmi = win32com.client.GetObject('winmgmts:')
             ret = wmi.ExecQuery('select * from Win32_Process where Name="%s"' % process_name)
-        except Exception, e:
+        except Exception as e:
             self.log.error('[EXCEPTION] - %s : %s' % (process_name, e))
             return False
         return True if len(ret) > 0 else False

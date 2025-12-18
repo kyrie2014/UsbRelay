@@ -75,7 +75,13 @@ class Config(object):
 
     @classmethod
     def xor(cls, lst):
-        return reduce(lambda x, y=0: y ^ x, lst)
+        try:
+            # Python 2
+            return reduce(lambda x, y=0: y ^ x, lst)
+        except NameError:
+            # Python 3
+            from functools import reduce
+            return reduce(lambda x, y=0: y ^ x, lst)
 
     def __init_log(self, sn):
         logfile = 'relay_%s_%s.log' % (sn, time.strftime("%Y%m%d", time.localtime()))

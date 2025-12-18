@@ -5,7 +5,11 @@ Created on 2017-2-28
 @author:  Kyrie Liu  
 @description:  MySQL method
 """
-import MySQLdb
+try:
+    import MySQLdb
+except ImportError:
+    import pymysql as MySQLdb
+    MySQLdb.install_as_MySQLdb()
 
 
 class DatabaseUtils(object):
@@ -75,8 +79,8 @@ class DatabaseUtils(object):
         try:
             self.cursor.execute(__insert)
             self.conn.commit()
-        except Exception, err:
-            print err
+        except Exception as err:
+            print(err)
             self.conn.rollback()
 
     def update_value_of_row(self, _table_name, update_items, condition):
@@ -91,8 +95,8 @@ class DatabaseUtils(object):
         try:
             self.cursor.execute(__update)
             self.conn.commit()
-        except Exception, err:
-            print err
+        except Exception as err:
+            print(err)
             self.conn.rollback()
 
     def delete_data_of_table(self, _table_name, condition=None):
@@ -108,8 +112,8 @@ class DatabaseUtils(object):
                 __delete = '{} WHERE {}'.format(__delete, condition)
             self.cursor.execute(__delete)
             self.conn.commit()
-        except Exception, err:
-            print err
+        except Exception as err:
+            print(err)
             self.conn.rollback()
 
     def drop_table(self, _table_name):
@@ -122,8 +126,8 @@ class DatabaseUtils(object):
             __drop = 'DROP TABLE ' + _table_name
             self.conn.execute(__drop)
             self.conn.commit()
-        except Exception, err:
-            print err
+        except Exception as err:
+            print(err)
             self.conn.rollback()
 
     def query_data_of_table(self, _table_name, keys, condition=None, order=None):
@@ -153,14 +157,14 @@ class DatabaseUtils(object):
         :return: None
         """
         if len(_items) < 1:
-            print 'Data item too short!'
+            print('Data item too short!')
             return
         __create = 'CREATE TABLE IF NOT EXISTS {} ({})'.format(_table_name, ','.join(_items))
         try:
             self.cursor.execute(__create)
             self.conn.commit()
-        except Exception, err:
-            print err
+        except Exception as err:
+            print(err)
             self.conn.rollback()
 
     def __del__(self):

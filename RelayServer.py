@@ -83,9 +83,12 @@ if __name__ == '__main__':
     try:
         tm = TaskManager()
         tm.in_task()
-    except Exception, err:
-        print 'Exception: ' + str(err)
-        import tkinter as tk
+    except Exception as err:
+        print('Exception: ' + str(err))
+        try:
+            import tkinter as tk
+        except ImportError:
+            import Tkinter as tk
         window = tk.Tk()
         window.title('继电器异常')
         window.resizable(0, 0)

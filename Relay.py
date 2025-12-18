@@ -87,10 +87,13 @@ class Relay(Config):
 
     def get_running_build(self):
         file_name = '{}_Jenkins.txt'.format(self.sn)
-        import ConfigParser
+        try:
+            import configparser
+        except ImportError:
+            import ConfigParser as configparser
         if not os.path.exists(file_name):
             return 'N/A'
-        config = ConfigParser.ConfigParser()
+        config = configparser.ConfigParser()
         config.read(file_name)
         return config.get('Setting', 'Path') + r'+' + config.get('Setting', 'Pac')
 
@@ -136,7 +139,7 @@ class Relay(Config):
         return re.findall('\\w?\\n(\\S*)\\s+device', self.exec_command('adb devices'))
 
     def is_enable_adb(self, wait_time):
-        for _ in xrange(wait_time):
+        for _ in range(wait_time):
             self.log.info('[ADB_STATE] - Not found DUT [%s]' % self.sn)
             try:
                 if self.sn in self.get_devices():
@@ -144,7 +147,7 @@ class Relay(Config):
                     flag = True
                     break
                 time.sleep(1)
-            except Exception, err:
+            except Exception as err:
                 self.log.error(err)
         else:
             flag = False

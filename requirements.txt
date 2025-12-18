@@ -1,0 +1,20 @@
+# USB Relay Controller Dependencies
+
+# Serial Communication
+pyserial>=3.5
+
+# MySQL Database Support (Python 2 compatible)
+# For Python 2.7, use: mysqlclient or MySQL-python
+# For Python 3, use: mysqlclient or PyMySQL
+mysqlclient>=2.0.0; python_version >= '3.0'
+# MySQL-python>=1.2.5; python_version < '3.0'  # Uncomment for Python 2.7
+
+# Alternative MySQL connector for Python 3
+# PyMySQL>=1.0.0
+
+# Windows COM support (for process checking)
+pywin32>=300; sys_platform == 'win32'
+
+# Optional: For better CLI experience
+# colorama>=0.4.4; sys_platform == 'win32'
+
